@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'REPPASideMenu_Example' do
+  pod 'REPPASideMenu', :path => '../'
+
+  target 'REPPASideMenu_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
