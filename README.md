@@ -1,29 +1,13 @@
 # REPPASideMenu
 
-[![CI Status](http://img.shields.io/travis/alex.stonehouse@gmail.com/REPPASideMenu.svg?style=flat)](https://travis-ci.org/alex.stonehouse@gmail.com/REPPASideMenu)
-[![Version](https://img.shields.io/cocoapods/v/REPPASideMenu.svg?style=flat)](http://cocoapods.org/pods/REPPASideMenu)
-[![License](https://img.shields.io/cocoapods/l/REPPASideMenu.svg?style=flat)](http://cocoapods.org/pods/REPPASideMenu)
-[![Platform](https://img.shields.io/cocoapods/p/REPPASideMenu.svg?style=flat)](http://cocoapods.org/pods/REPPASideMenu)
+Simple Swift side menu extending from [SSA111/SSASideMenu](https://github.com/SSA111/SSASideMenu). REPPASideMenu adds a more natural animation flow, where the content view moves forward in space and the menu comes from behind the content view. In addition to the animation changes, REPPASideMenu is available as a CocoaPod. 
 
-## Example
+### Author
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+Alexander Stonehouse and REPPA.NET
 
-## Requirements
+Forked from the original [SSA111/SSASideMenu](https://github.com/SSA111/SSASideMenu)
 
-## Installation
-
-REPPASideMenu is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod "REPPASideMenu"
-```
-
-## Author
-
-alex.stonehouse@gmail.com, as@reppa.net
-
-## License
+### License
 
 REPPASideMenu is available under the MIT license. See the LICENSE file for more info.

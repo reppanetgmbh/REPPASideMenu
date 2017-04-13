@@ -1,0 +1,16 @@
+PODS:
+  - REPPASideMenu (0.1.0)
+
+DEPENDENCIES:
+  - REPPASideMenu (from `../`)
+
+EXTERNAL SOURCES:
+  REPPASideMenu:
+    :path: ../
+
+SPEC CHECKSUMS:
+  REPPASideMenu: f8d0b47bfac5bec4d5a3427f0c9046729f57f750
+
+PODFILE CHECKSUM: 223419a58c9b1ae4914a5a0bbe354010ee0c59dc
+
+COCOAPODS: 1.2.0

@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'REPPASideMenu'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of REPPASideMenu.'
+  s.version          = '1.0.0'
+  s.summary          = 'REPPASideMenu is a simple animated navigation menu written in Swift'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+REPPASideMenu allows for custom navigation menus in iOS applications with configurable animations. All written in Swift.
                        DESC
 
-  s.homepage         = 'https://github.com/alex.stonehouse@gmail.com/REPPASideMenu'
+  s.homepage         = 'https://github.com/reppanetgmbh/REPPASideMenu'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'alex.stonehouse@gmail.com' => 'as@reppa.net' }
-  s.source           = { :git => 'https://github.com/alex.stonehouse@gmail.com/REPPASideMenu.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/reppanetgmbh/REPPASideMenu.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

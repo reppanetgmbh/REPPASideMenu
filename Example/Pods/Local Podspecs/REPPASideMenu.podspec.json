@@ -1,0 +1,22 @@
+{
+  "name": "REPPASideMenu",
+  "version": "0.1.0",
+  "summary": "A short description of REPPASideMenu.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alex.stonehouse@gmail.com/REPPASideMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alex.stonehouse@gmail.com": "as@reppa.net"
+  },
+  "source": {
+    "git": "https://github.com/alex.stonehouse@gmail.com/REPPASideMenu.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "REPPASideMenu/Classes/**/*"
+}

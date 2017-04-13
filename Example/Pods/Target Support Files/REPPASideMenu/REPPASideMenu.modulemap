@@ -1,0 +1,6 @@
+framework module REPPASideMenu {
+  umbrella header "REPPASideMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
